@@ -1,0 +1,2 @@
+KL(P_A^theta0 || P_A^theta1) = 0.103541
+KL(P_A^theta1 || P_A^theta0) = 2.256261
